@@ -1,0 +1,273 @@
+
+.A-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px ;
+    
+}
+
+ nav ul li{
+    list-style: none; 
+    margin-right: 51px ;  
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #474747;
+    font-size: 20px;
+}
+/* display: flex;
+    color: #474747;
+    margin: ; */
+
+.A-2 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.A-3{
+    font-size: 45px;
+    font-weight: 800px;
+}
+
+.A-4{
+    color: #FD6E0A;
+}
+
+
+.A-5{
+    display: flex;
+    align-items: center;
+}
+
+.C-1{
+    color: #FFFFFF;
+    background-color: #FD6E0A;
+    border: 0px;
+    border-radius: 5px;
+    width: 150px;
+    height: 64px;
+    font-size: 20px;
+    font-weight: 700px;
+
+}
+
+/* banner */
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+}
+
+.B-1{
+    max-width: 585px;
+    max-height: 359px;
+}
+.B-2{
+    font-size: 45px;
+    font-weight: 600px;
+    color: #474747;
+}
+.B-3{
+    font-size: 85px;
+    font-weight: 800px;
+    color: #181818;
+}
+.B-4{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #757575;
+}
+.header{
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    background-color: #FFF8F3;
+
+}
+
+main{
+    
+    max-width: 1140px;
+    /* max-height: 550px;
+    border-radius: 10px; */
+    margin: 0 auto;
+}
+
+.D-1{
+    /* margin: 0 28px 0 200px; */
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+.D-2{
+    text-align: center;
+    margin-top: 130px;
+ font-size: 35px;
+ font-weight: bold;
+ color: #181818;
+}
+.D-3{
+    
+    font-size: 18px;
+    font-weight: 400px;
+    color: #757575;
+}
+.D-7{
+    font-weight: 600px;
+    font-size: 20px;
+}
+.D-4{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.center{
+    text-align: center;
+}
+.E-1{
+    font-size: 35px;
+    font-weight: bold;
+    color:#181818;
+}
+.E-2{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #757575;
+}
+.E-3{
+    display: flex;
+    gap: 24px;
+    /* justify-content: space-around; */
+    /* margin-top: 100px 20px; */
+
+}
+
+.E-4{
+    font-size: 20px;
+    font-weight: bold;
+    color:#181818;
+}
+.E-5{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #757575;
+   
+}
+
+.E-8{
+    /* margin-top: 100px 20px;
+    justify-content: space-around;
+    background-color: #FFFFFF; */
+     padding: 33px;
+     border-radius: 5px;
+     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.FF{
+    display: flex;
+    gap: 24px;
+}
+
+.Title{
+    font-size: 35px;
+    font-weight: bold;
+    color:rgba(24, 24, 24, 1) ;
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    color:rgba(71, 71, 71, 1) ;
+}
+.F-2{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgba(71, 71, 71, 1) ;
+}
+.F-3{
+    font-size: 20px;
+    font-weight: 700px;
+    color:rgba(117, 117, 117, 1) ;
+}
+.F-4{
+    font-size: 16px;
+    font-weight: 400px;
+    color:rgba(117, 117, 117, 1) ;
+}
+hr{
+    margin: 30px 5px;
+}
+.F-7{
+    margin: 0 50%;
+
+}
+
+footer{
+    background-color: rgba(255, 248, 243, 1);
+    
+   
+    
+}
+.G-2{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgba(24, 24, 24, 1);
+}
+
+.G-3{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(71, 71, 71, 1);
+}
+.GG{
+    display: flex;
+    /* padding: 50px; */
+    gap: 100px;
+    padding: 130px 230px;
+}
+
+.H-1{
+    border: none;
+    border-radius: 5px;
+    height: 64px;
+    width: 100%;
+    padding: 10px 20px;
+    color:rgba(255, 255, 255, 1);
+    margin: 10px 20px;
+}
+
+.H-2{
+    border: none;
+    border-radius: 5px;
+    height: 64px;
+    width: 100%;
+    padding: 10px 20px;
+    color:rgba(255, 255, 255, 1);
+    margin: 10px 20px;
+}
+.H-3{
+    border: none;
+    border-radius: 5px;
+    height: 200px;
+    width: 100%;
+    padding: 10px 20px;
+    color:rgba(255, 255, 255, 1);
+    margin: 10px 20px;
+ }
+ .H-4{
+height: 60px;
+margin: 10px 20px;
+ }
